@@ -1,6 +1,6 @@
 # Support
 
-This article explains where to get help with remark.
+This article explains how to reach out to us for help.
 Please read through the following guidelines.
 
 > 👉 **Note**: before participating in our community, please read our
@@ -34,24 +34,22 @@ Here are some tips:
 
 See [`contributing.md`][contributing] on how to contribute.
 
-## License
 
-[CC-BY-4.0][license] © [Titus Wormer][author]
 
-<!-- Definitions -->
 
-[license]: https://creativecommons.org/licenses/by/4.0/
 
-[author]: https://wooorm.com
+[Werlious][author]
 
-[coc]: https://github.com/remarkjs/.github/blob/main/code-of-conduct.md
+[author]: werlious@inchworm.games
+
+[coc]: https://github.com/inch-worm-games/.github/blob/main/CODE_OF_CONDUCT.md
 
 [rubberduck]: https://rubberduckdebugging.com
 
 [xy]: https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378
 
-[chat]: https://github.com/remarkjs/remark/discussions
+[chat]: https://github.com/inch-worm-games/.github/discussions
 
 [cs]: https://codesandbox.io
 
-[contributing]: contributing.md￼Enter
+[contributing]: contributing.md
