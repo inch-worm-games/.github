@@ -1,4 +1,6 @@
-## Oh, hey there 👋 We weren't expecting company 😅 Go ahead and make yourself comfy, don't mind us, we're still setting up!
+## Oh, hey there 👋 We weren't expecting company 😅 
+
+## Go ahead and make yourself comfy, don't mind us, we're still setting up!
 
 <!--
 
