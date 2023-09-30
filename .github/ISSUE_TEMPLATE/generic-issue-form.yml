@@ -34,7 +34,7 @@ body:
         - no version
       default: 0
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: browsers
     attributes:
