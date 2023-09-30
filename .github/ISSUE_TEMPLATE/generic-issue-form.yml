@@ -3,7 +3,7 @@ description: File a generic issue
 title: "[ISSUE] "
 labels: ["bug", "invalid", "help wanted"]
 projects: ["inch-worm-games/.github", "inch-worm-games/inch-worm-games"]
-assignees:
+assignees: ""
   
 body:
   - type: markdown
