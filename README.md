@@ -1,2 +1,2 @@
 # .github
-Repository holding public info for the organization
+Repository holding standard files for the organization
