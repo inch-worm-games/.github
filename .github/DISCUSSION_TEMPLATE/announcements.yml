@@ -1,0 +1,15 @@
+title: "[ANNOUNCEMENT] "
+labels: ["hear ye hear ye"]
+body:
+- type: input
+  id: title
+  attributes:
+    label: Title
+    description: "What have ye to say sire?"
+    placeholder: "Why are you talking like that?"
+  validations:
+    required: true
+- type: markdown
+    attributes:
+      value: |
+        Tell us more sire!
