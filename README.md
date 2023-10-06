@@ -3,13 +3,3 @@
 
 ##Trust me, this is just where we keep the paperwork 📄🥱
 
-
-#
-
-
-
-# inch-worm-games/.github
-A repository holding common files for the organization
-
-
-
