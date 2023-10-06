@@ -31,7 +31,7 @@ To get started with our community, follow these steps:
 
 Joining a team is simple:
 
-1. Browse the [Teams](/teams) directory to find a project that interests you.
+1. Browse the [Teams](/inch-worm-games/teams) directory to find a project that interests you.
 2. Contact the team lead or project owner through the provided contact information.
 3. Discuss your interest in joining and how you can contribute.
 4. Once accepted, you can start collaborating with your new team!
@@ -52,7 +52,7 @@ We value a respectful and inclusive environment for all members. Please adhere t
 
 ## Contributing
 
-We encourage contributions to this repository, whether it's adding your project team, improving documentation, or suggesting new features. To contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We encourage contributions to this repository, whether it's adding your project team, improving documentation, or suggesting new features. To contribute, please follow our [Contribution Guidelines](https://github.com/inch-worm-games/.github/blob/main/CONTRIBUTING.md).
 
 ## Support
 
@@ -60,6 +60,6 @@ If you have any questions or need assistance, feel free to [create an issue](htt
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code in accordance with the terms outlined in the license.
+This project is licensed under the [MIT License](https://github.com/inch-worm-games/.github/blob/main/LICENSE), which means you are free to use, modify, and distribute the code in accordance with the terms outlined in the license.
 
 Let's collaborate, innovate, and make great things together! 🚀
