@@ -11,7 +11,6 @@ Welcome to the Inch Worm Games organization landing page! This is a space where 
 4. [Community Guidelines](#community-guidelines)
 5. [Contributing](#contributing)
 6. [Support](#support)
-7. [License](#license)
 
 ## Introduction
 
@@ -58,8 +57,6 @@ We encourage contributions to this repository, whether it's adding your project 
 
 If you have any questions or need assistance, feel free to [create an issue](https://github.com/inch-worm-games/issues) in this repository, and the community will be happy to help.
 
-## License
 
-This project is licensed under the [MIT License](https://github.com/inch-worm-games/.github/blob/main/LICENSE), which means you are free to use, modify, and distribute the code in accordance with the terms outlined in the license.
 
 Let's collaborate, innovate, and make great things together! 🚀
