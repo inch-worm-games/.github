@@ -31,7 +31,7 @@ To get started with our community, follow these steps:
 
 Joining a team is simple:
 
-1. Browse the [Teams](/inch-worm-games/teams) directory to find a project that interests you.
+1. Browse the [Teams](https://github.com/inch-worm-games/teams) directory to find a project that interests you.
 2. Contact the team lead or project owner through the provided contact information.
 3. Discuss your interest in joining and how you can contribute.
 4. Once accepted, you can start collaborating with your new team!
